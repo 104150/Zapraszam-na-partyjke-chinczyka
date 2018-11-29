@@ -11,6 +11,7 @@ void Player::SetScore(int score){
 
 Player::Player()
 {
+	this.score = 0;
 }
 
 
