@@ -19,3 +19,6 @@ for(int i=0;i<ilosc_pytan;i++) {
 cout<<"Na koniec masz "<<wynik<<" punktow"<<endl;
 return 0;
 }
+
+
+Zapraszam na stół 700
